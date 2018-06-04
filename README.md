@@ -1,4 +1,4 @@
-# dataload with PostgreSQL and Codeigniter 4
+# Dataload with PostgreSQL and Codeigniter 4
 Code for tutorial
 
 To test the mass loading function you must have installed:
